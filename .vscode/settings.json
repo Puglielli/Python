@@ -1,0 +1,12 @@
+{
+    "python.testing.pyTestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true,
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
